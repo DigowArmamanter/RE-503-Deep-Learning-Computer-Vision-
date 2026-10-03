@@ -1,0 +1,3 @@
+mode,perangkat,latensi_ms_mean,latensi_ms_std
+fine_tune_sebagian,GPU,6.67,0.92
+fine_tune_sebagian,CPU,21.13,2.39
